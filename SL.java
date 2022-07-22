@@ -112,7 +112,7 @@ public class SL extends function
        {
           tmp = this.head;  
           this.head = this.head.next;
-          tmp = null;
+    tmp = null;
        }    
  
    }
