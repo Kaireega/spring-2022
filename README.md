@@ -6,7 +6,7 @@ Here's a README for the repository you described, incorporating the various Java
 
 ## Description
 
-This repository contains a collection of Java programs and classes developed between January 1 and May 25, focusing on data structures, algorithms, object-oriented programming, and inheritance. The collection includes a range of topics such as stacks, queues, binary search trees (BSTs), singly linked lists, calculators, and practice exercises for inheritance and polymorphism.
+This repository contains a collection of Java programs and classes that focusing on data structures, algorithms, object-oriented programming, and inheritance. The collection includes a range of topics such as stacks, queues, binary search trees (BSTs), singly linked lists, calculators, and practice exercises for inheritance and polymorphism.
 
 ## Table of Contents
 
