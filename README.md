@@ -42,10 +42,10 @@ This repository contains a collection of Java programs and classes that focusing
 ## Miscellaneous Utilities
 
 - **SimpleCalculator.java**: A simple calculator program implementing basic arithmetic operations.
-- **BookExam.java**: Possibly a program related to managing or evaluating books (exam or quiz-related?).
-- **Mad.java**: Details unspecified; possibly related to a project or mad libs game.
-- **Mess.java / Practice.java**: General practice classes; could be used for various coding exercises or challenges.
-- **Untitled.java**: Placeholder class, could be a work-in-progress or test file.
+- **BookExam.java**:
+- **Mad.java**: 
+- **Mess.java / Practice.java**: 
+-
   
 ## Games
 
